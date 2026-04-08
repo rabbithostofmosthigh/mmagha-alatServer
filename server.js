@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 5000; // port to connect to WEB
 
 // emails credentials
 const userEmail = "marvelousebube673@gmail.com";
-const pass = "wyadqcityzezlxui";
+//const pass = "wyadqcityzezlxui";
 // 9th 
 
 // Middleware
